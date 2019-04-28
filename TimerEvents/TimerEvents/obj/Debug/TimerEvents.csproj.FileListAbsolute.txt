@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.cache
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.lref
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\TimerEvents.g.resources
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+C:\Users\Administrator\Desktop\dotNET_module\SI_assignments\first_SI_assignment\TimerEvents\TimerEvents\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb
